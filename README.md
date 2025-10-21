@@ -6,6 +6,7 @@ Full-stack AI engineer building **document intelligence** systems — multimodal
   → [https://github.com/masterFoad/NanoSage](https://github.com/masterFoad/NanoSage)
 * 🧠 I like embeddings, layout/ocr pipelines, and making evaluations/dev-ex not suck.
 * 🧰 Python • PyTorch • LangGraph/agents • Retrieval/Indexing • React/TypeScript • CI/CD
+* 🔄 Currently nerding over [codex python sdk port](https://github.com/masterFoad/codex/tree/feature/codex-python-sdk)
 
 ---
 
