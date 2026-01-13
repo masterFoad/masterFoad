@@ -22,8 +22,8 @@ Full-stack AI engineer building **document intelligence** systems — multimodal
 #### What I’m into (lately)
 
 * Multimodal **document understanding** & vision embeddings
-* **RAG** quality/latency (multi-vector, re-ranking, evals)
-* **Agentic** workflows that actually ship (not just vibes)
+* **RAG** quality/latency
+* **Agentic** workflows
 
 ---
 
