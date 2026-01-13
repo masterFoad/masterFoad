@@ -28,7 +28,7 @@ Full-stack AI engineer building **document intelligence** systems — multimodal
 
 #### Selected OSS
 
-* **NanoSage** — laptop-friendly research agent (RAG) with recursive exploration
+* **NanoSage** laptop-friendly research agent (RAG) with recursive exploration
   [https://github.com/masterFoad/NanoSage](https://github.com/masterFoad/NanoSage)
 
 > Want to collaborate or try something weird with RAG/agents?
