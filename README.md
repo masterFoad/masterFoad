@@ -2,7 +2,7 @@
 
 Full-stack AI engineer building **document intelligence** systems — multimodal retrieval, RAG, and pragmatic agents.
 
-* 🔎 OSS: **NanoSage** — local deep-research agent for recursive search & report generation
+* 🔎 OSS: **NanoSage** local deep-research agent for recursive search & report generation
   → [https://github.com/masterFoad/NanoSage](https://github.com/masterFoad/NanoSage)
 * 🧠 I like Algos
 * 🔄 Currently nerding over [codex python sdk port](https://github.com/masterFoad/codex/tree/feature/codex-python-sdk)
